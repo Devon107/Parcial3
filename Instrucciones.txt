@@ -1,0 +1,12 @@
+Integrantes:
+		Abiandi Henriquez
+		Roberto Flores
+
+Administrador
+
+Usuario: Admin
+Clave: 123456
+
+Alumno
+Usuario: Roberto
+clave: 123456
